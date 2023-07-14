@@ -2,7 +2,7 @@
 
 Integração Zabbix > JIRA
 
-Link referência: Browse Zabbix / Zabbix - ZABBIX GIT
+
 
 1°:
 
