@@ -2,6 +2,8 @@
 
 Integração Zabbix > JIRA
 
+Link referência: Browse Zabbix / Zabbix - ZABBIX GIT
+
 1°:
 
  Ativar a mídia JIRA Service Desk que encontra-se na aba “Administração" - "Mídia” no front-end ZABBIX - tipos de mídia”
