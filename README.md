@@ -20,10 +20,14 @@ Por exemplo, esta macro pode ser usada para preencher o campo personalizado do J
 
 3. Abra o tipo de mídia do Jira Service Desk recém-adicionado e substitua todos pelos seus valores. Os seguintes parâmetros são necessários:
 
-jira_url - URL real da sua instância do Jira Service Desk,
+jira_url - URL real da sua instância do Jira Service Desk
+
 jira_user - Login do usuário do Jira Service Desk,
-jira_password - senha ou token de API (para instalações do Jira Service Desk Cloud, um token de API pode ser obtido em https://id.atlassian.com/manage/api-tokens),
+
+jira_password - senha ou token de API (para instalações do Jira Service Desk Cloud, um token de API pode ser obtido em https://id.atlassian.com/manage/api-tokens)
+
 jira_servicedesk_id - ID numérico do seu Jira Service Desk (não confundir com um ID de projeto ou uma chave do Service Desk!),
+
 jira_request_type_id - ID numérico do seu RequestType do Jira Service Desk.
 
 Criar a variável criada: jira_request_key; -  Esta variável permite ao Zabbix conhecer o número de chamado
