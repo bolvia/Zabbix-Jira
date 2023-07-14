@@ -26,7 +26,7 @@ jira_user - Login do usuário do Jira Service Desk,
 
 jira_password - senha ou token de API (para instalações do Jira Service Desk Cloud, um token de API pode ser obtido em https://id.atlassian.com/manage/api-tokens)
 
-jira_servicedesk_id - ID numérico do seu Jira Service Desk (não confundir com um ID de projeto ou uma chave do Service Desk!),
+jira_servicedesk_id - ID numérico do seu Jira Service Desk
 
 jira_request_type_id - ID numérico do seu RequestType do Jira Service Desk.
 
